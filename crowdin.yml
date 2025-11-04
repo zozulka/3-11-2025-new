@@ -1,3 +1,6 @@
-files:
-  - source: /scr/locales/en-GB/*.json
+"files": [
+  {
+    source: /scr/locales/en-GB/*.json
     translation: /src/locales/%locale%/%original_file_name%
+  },
+]
