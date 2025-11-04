@@ -1,6 +1,5 @@
-"files": [
-  {
-"source":"/src/locales/en-GB/*.json",
-"translation":"/src/locales/%locale%/%original_file_name%"
-  },
-]
+files:
+  - source: /src/locales/en-GB/*.json
+    translation: /src/locales/%locale%/%original_file_name%
+  - source: /scr/locales/en-GB/*.json
+    translation: /src/locales/%locale%/%original_file_name%
